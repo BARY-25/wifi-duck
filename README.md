@@ -10,9 +10,7 @@
 A worthy successor of the <a href="https://github.com/spacehuhn/wifi_ducky/">WiFi Ducky</a> project
 <br>
 <br>
-  🐦 <a href="https://twitter.com/spacehuhn">Twitter</a>
-| 📺 <a href="https://www.youtube.com/spacehuhn">YouTube</a>
-| 🌍 <a href="https://spacehuhn.io">spacehuhn.io</a>
+| 📺 <a href="https://www.youtube.com/channel/UCU79dPDe6VD9UsllygkZPIQ">YouTube</a>
 <br>
 <br>
 <br>
